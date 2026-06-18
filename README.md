@@ -1,4 +1,24 @@
-## Hi there 👋
+Hi, I'm Ayush 👋
+🎓 B.Tech CSE Student 💻 Full Stack Developer (MERN)
+
+Tech Stack
+C++
+JavaScript
+Python
+React
+Node.js
+Express.js
+MongoDB
+Socket.IO
+Current Focus
+Backend Development
+System Design
+Open Source Contributions
+Generative AI
+Agentic AI
+Featured Projects
+Contrib.ai
+Bugverse
 
 <!--
 **Ayushh004/Ayushh004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
