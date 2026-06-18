@@ -45,5 +45,3 @@
 ## Education
 
 Btech CSE fron JSS Noida
-
-=
