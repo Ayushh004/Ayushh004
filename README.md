@@ -1,36 +1,26 @@
-Hi, I'm Ayush 👋
-🎓 B.Tech CSE Student 💻 Full Stack Developer (MERN)
+# Hi, I'm Ayush 👋
 
-Tech Stack
-C++
-JavaScript
-Python
-React
-Node.js
-Express.js
-MongoDB
-Socket.IO
-Current Focus
-Backend Development
-System Design
-Open Source Contributions
-Generative AI
-Agentic AI
-Featured Projects
-Contrib.ai
-Bugverse
+🎓 B.Tech CSE Student | 💻 MERN Stack Developer
 
-<!--
-**Ayushh004/Ayushh004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,python,git,github,vscode" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Backend Development
+- System Design
+- AI Workflows
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ayush-04jha&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-04jha&layout=compact&theme=tokyonight)
+
+## 📫 Connect With Me
+
+- LinkedIn: Your LinkedIn
+- Email: your email
