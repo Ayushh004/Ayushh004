@@ -44,4 +44,4 @@
 
 ## Education
 
-Btech CSE fron JSS Noida
+Btech CSE from JSS Noida
