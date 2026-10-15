@@ -16,7 +16,7 @@
 ## Current Focus
 
 - Backend Development
-- Fronten Development
+- Frontend Development
 - DSA
 - Generative AI (learning)
 - Agentic AI (learning)
